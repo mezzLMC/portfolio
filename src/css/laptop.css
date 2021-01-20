@@ -1,0 +1,48 @@
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) { 
+    #carouselExampleControls{
+        max-height: 600px;
+    }
+    #header{
+        height: 60%;
+    }
+    .imgHeader{
+        height: 80%;
+    }
+    .nav-link{
+    border: solid 2px black;
+    margin-bottom: 0px;
+    font-size: 28px;
+    margin-top: -12px;
+    }
+    #content{
+        margin-left: 25px;
+        margin-right: 25px;
+    }
+    #lastCarousel{
+        margin-right: 100px;
+        height: 15%;
+    }
+    #archiveInner{
+        margin-left: 25px;
+        margin-right: 25px;
+        
+    }
+    .preview{
+        width: 20px;
+    }
+    #announcerContent{
+        max-width: 600px;
+        border: 1px solid black;
+    }
+    #sommaire{
+        max-width: 600px;
+    }
+    #announcer{
+        margin-top: -90px;
+        min-height: 40%;
+    }
+    #announcerDate{
+        font-size: 65px;
+    }
+
+}
